@@ -73,5 +73,5 @@ This is the syllabus for the astro-python course. This involves learning and mas
 + http://scipy-lectures.org/intro/numpy/array_object.html
 + AAVSO guide
 + https://datacarpentry.org/astronomy-python/
-+ Data Driven Astronomy - Coursera course by University of Sydney
++ Data Driven Astronomy - Coursera course by University of Sydney (https://www.coursera.org/learn/data-driven-astronomy)
 + Machine Learning - An algorithmic perspective - Stephen Marsland
