@@ -58,6 +58,10 @@ This is the syllabus for the astro-python course. This involves learning and mas
     + Gaia
 + Different wavelengths
 + Vizier, Simbad, etc
++ Astronomical packages in python:
+    + Astropy
+    + Astroquery
+    + AstroML
 + Variable Stars
     + Types of variable stars
     + Raw and phase folded light curves
