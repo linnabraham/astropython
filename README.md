@@ -58,6 +58,9 @@ This is the syllabus for the astro-python course. This involves learning and mas
     + Gaia
 + Different wavelengths
 + Vizier, Simbad, etc
++ Astronomical coordinates
++ MJD
++ Magnitudes
 + Astronomical packages in python:
     + Astropy
     + Astroquery
@@ -79,3 +82,4 @@ This is the syllabus for the astro-python course. This involves learning and mas
 + https://datacarpentry.org/astronomy-python/
 + Data Driven Astronomy - Coursera course  (https://www.coursera.org/learn/data-driven-astronomy)
 + Machine Learning - An algorithmic perspective - Stephen Marsland
++ https://youtube.com/playlist?list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL
