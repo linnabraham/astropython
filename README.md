@@ -33,7 +33,7 @@ This is the syllabus for the astro-python course. This involves learning and mas
     + Basic visualization
     + Indexing and slicing
 + Tabular data analaysis with Pandas
-    + DataFrames and Series
+    + Dataframes and Series
     + Reading files
     + Indexing
     + Missing data management
@@ -81,7 +81,7 @@ This is the syllabus for the astro-python course. This involves learning and mas
 
 ## References
 
-+ Exercism.org (Basics)
++ https://exercism.org/ (Basics)
 + http://scipy-lectures.org/intro/numpy/array_object.html
 + AAVSO guide
 + https://datacarpentry.org/astronomy-python/
