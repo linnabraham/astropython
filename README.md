@@ -82,7 +82,7 @@ This is the syllabus for the astro-python course. This involves learning and mas
 ## References
 
 + https://exercism.org/ (Basics)
-+ http://scipy-lectures.org/intro/numpy/array_object.html
++ http://scipy-lectures.org/intro/numpy/array_object.html (Numpy)
 + AAVSO guide
 + https://datacarpentry.org/astronomy-python/
 + Data Driven Astronomy - Coursera course  (https://www.coursera.org/learn/data-driven-astronomy)
