@@ -21,31 +21,31 @@ This is the syllabus for the astro-python course. This involves learning and mas
   + Tuples
   + Dicts
 + Numerical analysis using Numpy
-    + Numpy arrays
-    + Creating arrays
-    + Basic data types
-    + Basic visualization
-    + Indexing and slicing
+  + Numpy arrays
+  + Creating arrays
+  + Basic data types
+  + Basic visualization
+  + Indexing and slicing
 + Plotting using Matplotlib
-    + Scatter plots
-    + Error bars
-    + Histograms
-    + Subplots
-    + Imshow
+  + Scatter plots
+  + Error bars
+  + Histograms
+  + Subplots
+  + Imshow
 + Tabular data analaysis with Pandas
-    + Dataframes and Series
-    + Reading files
-    + Indexing
-    + Missing data management
-    + Merge and join
+  + Dataframes and Series
+  + Reading files
+  + Indexing
+  + Missing data management
+  + Merge and join
 + Machine Learning using Scikit-learn
-    + What is machine learning
-    + Types of ML
-    + Classical ML methods
-    + Decision trees and RFs
-    + PCA and SVN
-    + Perceptron
-    + Backpropagation
+  + What is machine learning
+  + Types of ML
+  + Classical ML methods
+  + Decision trees and RFs
+  + PCA and SVN
+  + Perceptron
+  + Backpropagation
 
 ## Astronomy
 
