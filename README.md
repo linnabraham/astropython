@@ -20,18 +20,18 @@ This is the syllabus for the astro-python course. This involves learning and mas
   + Loops
   + Tuples
   + Dicts
-+ Plotting using Matplotlib
-    + Scatter plots
-    + Error bars
-    + Histograms
-    + Subplots
-    + Imshow
 + Numerical analysis using Numpy
     + Numpy arrays
     + Creating arrays
     + Basic data types
     + Basic visualization
     + Indexing and slicing
++ Plotting using Matplotlib
+    + Scatter plots
+    + Error bars
+    + Histograms
+    + Subplots
+    + Imshow
 + Tabular data analaysis with Pandas
     + Dataframes and Series
     + Reading files
