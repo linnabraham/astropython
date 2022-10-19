@@ -4,13 +4,17 @@ This is the syllabus for the astro-python course. This involves learning and mas
 
 ## Python
 
-+ Preliminary stuff
-  + Python IDEs,  Google Colab
-  + File I/O
+1. Preliminary stuff
+  + How computers read code
   + Algorithms and flowcharts
-  + Functions
-  + External package installation and imports
-+ Basics of Python
+  + Features of python
+  + Scripts, REPL and IDEs
+  + Jupyter notebook and Google Colab
+  + Scripts vs Functions
+  + Importing code: Modules and packages
+  + Standard Library and External package installation
+  + File I/O
+2. Basics of Python
   + Bools
   + Numbers
   + Conditionals
@@ -20,25 +24,25 @@ This is the syllabus for the astro-python course. This involves learning and mas
   + Loops
   + Tuples
   + Dicts
-+ Numerical analysis using Numpy
+3. Numerical analysis using Numpy
   + Numpy arrays
   + Creating arrays
   + Basic data types
   + Basic visualization
   + Indexing and slicing
-+ Plotting using Matplotlib
+4. Plotting using Matplotlib
   + Scatter plots
   + Error bars
   + Histograms
   + Subplots
   + Imshow
-+ Tabular data analaysis with Pandas
+5. Tabular data analaysis with Pandas
   + Dataframes and Series
   + Reading files
   + Indexing
   + Missing data management
   + Merge and join
-+ Machine Learning using Scikit-learn
+6. Machine Learning using Scikit-learn
   + What is machine learning
   + Types of ML
   + Classical ML methods
@@ -82,10 +86,16 @@ This is the syllabus for the astro-python course. This involves learning and mas
 ## References
 
 + https://exercism.org/ (Basics)
-+ http://scipy-lectures.org/intro/numpy/array_object.html (Numpy)
-+ AAVSO guide
++ http://scipy-lectures.org
+	+ Sections 1.3 - 1.9:
+		+ [File I/O](http://scipy-lectures.org/intro/language/io.html#iterating-over-a-file)
+	+ [Numpy](http://scipy-lectures.org/intro/numpy/array_object.html)
++ [AAVSO guide](aavsoguide.pdf)
 + https://datacarpentry.org/astronomy-python/
-+ Data Driven Astronomy - Coursera course  (https://www.coursera.org/learn/data-driven-astronomy)
 + Machine Learning - An algorithmic perspective - Stephen Marsland
-+ https://youtube.com/playlist?list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL
-+ The Evolving Universe - Caltech (Coursera.org) Weeks 1 and 2, Weeks 6 and 7
++ Coursera.org:
+	+ [The Evolving Universe - Caltech](https://www.coursera.org/learn/evolvinguniverse) Weeks 1, 2, ,6 and 7
+	+ [Data Driven Astronomy - University of Sydney](https://www.coursera.org/learn/data-driven-astronomy)
++ Youtube:
+    + [Crash Course Astronomy](https://youtube.com/playlist?list=PL8dPuuaLjXtPAJr1ysd5yGIyiSFuh0mIL)
+    + [How do computers read code ?](https://www.youtube.com/watch?v=QXjU9qTsYCc)
