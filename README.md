@@ -1,6 +1,6 @@
 # Astro-Python Course
 
-This is the syllabus for the astro-python course. This involves learning and mastering python as well as learning some fundamental aspects of astronomy and Machine learning. The course is designed for a duration of 12 weeks (3 months) in total. Introductory knowledge in any programming language and a basic knowledge of astronomy is considered a pre-requisite.
+This is the syllabus for the astro-python course. The course involves learning and mastering python as well as learning some fundamental aspects of astronomy and machine learning. The course is designed for a duration of 12 weeks (3 months) in total. Introductory knowledge in any programming language and a basic knowledge of astronomy is considered a pre-requisite.
 
 Students will start by learning the basics of python. And then move on to learn about public data sets in astronomy and the tools required for data analysis.
 Students have a choice to explore problems using image data or time-series data. Depending on their choice they may need to learn more advanced libraries in python.
