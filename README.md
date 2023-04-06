@@ -1,7 +1,23 @@
 # Astro-Python Course
 
-The entire course is divided into 4 sections. More details about each section and the learning outcomes from each can be found below. Find the [syllabus](syllabus.md) for the course here. 
+The entire course is divided into 4 sections.
++ Python Preliminaries
++ Fundamentals of Python
++ Fundamentals of Data Analysis in Astronomy
++ Final Project
 
+More details about each section and the learning outcomes from each can be found below.
+
+## Course Syllabus
+The course involves learning and mastering python as well as learning some fundamentals  of astronomy and machine learning. The course is designed for a duration of 12 weeks (3 months) spread out over a 24 week (6 month) period.
+
+Students will start by learning the basics of python. And then move on to learn about public data sets in astronomy and the tools required for data analysis.
+Students have a choice to explore problems using image data or time-series data. Depending on their choice they may need to learn more advanced libraries in python.
+Students that have successfully completed these investigations can opt to do a machine-learning project.
+
+Find the complete [syllabus](syllabus.md) for the course here.
+
+## Course Description and Objectives
 + Python preliminary
 	+ Mostly instruction and hands-on
 	+ Course objectives:
@@ -33,7 +49,11 @@ The entire course is divided into 4 sections. More details about each section an
 		+ Understand the different online tools available for astronomical investigations like VIzier, Simbad, Aladin, Topcat etc.
 		+ Understand the need for using databases and the casjobs interface
 		+ Know the different packages in python that are designed for astronomy and their purposes.
-+ The last module involves the application of concepts learnt in the previous three modules. Hence this can only be started if three previous modules have been completed. This includes the final project. Here we have a choice based path. Two choices are available now - Variable star track and Galaxy track. 
++ Final Project
+	+ The last module involves the application of concepts learnt in the previous three modules. Hence this can only be started if three previous modules have been completed. This includes the final project. Here we have a choice based path. Two choices are available now - Variable star track and Galaxy track.
 	+ This part of the course should start not later than 4 months into the start of the course.
-	+ After selecting a particular track, students are required to start preparing a project report. A [template](template.md) for this project report can be found here. 
+
+	## General Instructions
+
+	+ After selecting a particular track, students are required to start preparing a project report. A [template](template.md) for this project report can be found here.
 	+ The draft of the project  should be shared through google docs or overleaf. The final project report (with proper figure placement, allignment, citations etc.) can be written preferrably in LaTeX using overleaf or any WYSIWYG (e.g., Microsoft Word, LibreOffice Writer, Google Docs) word processing software.
